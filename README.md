@@ -1,6 +1,7 @@
 ### Hi 我是不良人 👋
-想了解我的话，欢迎访问我的个人博客：[http://www.wqby.vip](http://www.wqby.vip "基于Vuepress2.X编写的个人博客")
-
+想了解我的话，欢迎访问我的个人博客：
+[博客文章](http://www.wqby.vip/view/pigeonhole/ "基于Vuepress2.X编写的个人博客")
+[作品项目列表](http://www.wqby.vip/view/work/ "基于Vuepress2.X编写的个人博客")
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9479421&theme=&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=9479421&show_icons=true&theme=&count_private=true)
