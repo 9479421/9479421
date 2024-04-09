@@ -1,7 +1,10 @@
 ### Hi 我是不良人 👋
 想了解我的话，欢迎访问我的个人博客：[http://www.wqby.vip]()
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9479421&theme=dark&layout=compact)
+
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9479421&theme=&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=coderfix-lab&show_icons=true&theme=&count_private=true)
+
 
 <!--
 **9479421/9479421** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
