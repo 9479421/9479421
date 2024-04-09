@@ -3,7 +3,7 @@
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=9479421&theme=&layout=compact)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=coderfix-lab&show_icons=true&theme=&count_private=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=9479421&show_icons=true&theme=&count_private=true)
 
 
 <!--
